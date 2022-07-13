@@ -13,7 +13,7 @@ Repository ini dibuat untuk memenuhi tugas Pemrograman Web
 
 <p>Untuk melakukan Program ini harus instalasi Codeigniter 4 dapat dilakukan dengan dua cara, yaitu cara manual dan menggunakan <b>composer</b>. Pada praktikum ini kita menggunakan cara composer.</p>
 
-![foto](foto/XAMPP.PNG)
+![](/XAMPP.PNG)
 
 Setelah itu buka ``XAMPP``
 ```klik shell, kemudian ketik: cd C:\xampp\htdocs\UAS ```
