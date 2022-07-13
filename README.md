@@ -15,7 +15,7 @@ Repository ini dibuat untuk memenuhi tugas Pemrograman Web
 
 ![](/XAMPP.PNG)
 
-Setelah itu buka ``XAMPP``
+<P>Setelah itu buka ``XAMPP``</P>
 ```klik shell, kemudian ketik: cd C:\xampp\htdocs\UAS ```
 
 ```shell php spark serve ```
