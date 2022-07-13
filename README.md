@@ -24,7 +24,9 @@ cd C:\xampp\htdocs\UAS
 
 Setelah itu ketik:
 
-```shell php spark serve ```
+```php
+shell php spark serve
+```
 
 <p>Kemudian ketik:</p> 
 
