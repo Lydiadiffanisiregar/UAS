@@ -6,7 +6,7 @@ Repository ini dibuat untuk memenuhi tugas Pemrograman Web
 # UAS Antrian Loket (Genap)
 <b>Link</b>
 
-- [Dokumentasi]()
+- [Dokumentasi](https://youtu.be/FBTE4BXdMFc)
 
 - [Demo program](http://antriansistemlydia.epizy.com/)
 
@@ -33,3 +33,9 @@ shell php spark serve
 ```php
 http://localhost:8080
 ```
+
+Saya membuat webhosting dari ( https://app.infinityfree.net/ )
+
+Untuk Upload data ke webhosting saya menggunakan filezilla Client
+
+![](/filezilla.PNG)
